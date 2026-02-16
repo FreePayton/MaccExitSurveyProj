@@ -1,0 +1,571 @@
+response_id,course,source_type,response_value,normalized_score
+R_5VyCdTtXafsDipw,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_5VyCdTtXafsDipw,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_5VyCdTtXafsDipw,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_5VyCdTtXafsDipw,ACC 6510 Financial Audit,core_rank,1,100.000000
+R_5VyCdTtXafsDipw,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_5VyCdTtXafsDipw,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_5VyCdTtXafsDipw,ACC 6350 Management Control Systems,core_rank,6,37.500000
+R_5VyCdTtXafsDipw,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5VyCdTtXafsDipw,ACC 6020 Advanced Financial Application,elective_rating,5,100.000000
+R_5VyCdTtXafsDipw,ACC 6150 Information Systems Audit,elective_rating,3,50.000000
+R_5VyCdTtXafsDipw,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,2,25.000000
+R_3nWaNSTFwLCc1lq,ACC 6060 Professionalism and Leadership,core_rank,1,100.000000
+R_3nWaNSTFwLCc1lq,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_3nWaNSTFwLCc1lq,ACC 6400 Advanced Tax Business Entities,core_rank,5,50.000000
+R_3nWaNSTFwLCc1lq,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_3nWaNSTFwLCc1lq,ACC 6540 Professional Ethics,core_rank,3,75.000000
+R_3nWaNSTFwLCc1lq,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_3nWaNSTFwLCc1lq,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_3nWaNSTFwLCc1lq,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_3nWaNSTFwLCc1lq,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_3Squ9WgEApuR9mY,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_3Squ9WgEApuR9mY,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_3Squ9WgEApuR9mY,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3Squ9WgEApuR9mY,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_3Squ9WgEApuR9mY,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_3Squ9WgEApuR9mY,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_3Squ9WgEApuR9mY,ACC 6350 Management Control Systems,core_rank,2,87.500000
+R_3Squ9WgEApuR9mY,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_3Squ9WgEApuR9mY,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,5,100.000000
+R_3Squ9WgEApuR9mY,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_3Squ9WgEApuR9mY,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_5Nq6Is8GSXYUscX,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_5Nq6Is8GSXYUscX,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_5Nq6Is8GSXYUscX,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_5Nq6Is8GSXYUscX,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_5Nq6Is8GSXYUscX,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_5Nq6Is8GSXYUscX,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_5Nq6Is8GSXYUscX,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_5Nq6Is8GSXYUscX,ACC 6600 Business Law for Accountants,core_rank,3,75.000000
+R_5Nq6Is8GSXYUscX,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_1TnIj0Liy09bSYf,ACC 6060 Professionalism and Leadership,core_rank,7,25.000000
+R_1TnIj0Liy09bSYf,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_1TnIj0Liy09bSYf,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_1TnIj0Liy09bSYf,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_1TnIj0Liy09bSYf,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_1TnIj0Liy09bSYf,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_1TnIj0Liy09bSYf,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_1TnIj0Liy09bSYf,ACC 6600 Business Law for Accountants,core_rank,1,100.000000
+R_1TnIj0Liy09bSYf,ACC 6150 Information Systems Audit,elective_rating,3,50.000000
+R_1TnIj0Liy09bSYf,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,5,100.000000
+R_19g1XQ9mK1pTzs6,ACC 6060 Professionalism and Leadership,core_rank,7,25.000000
+R_19g1XQ9mK1pTzs6,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_19g1XQ9mK1pTzs6,ACC 6400 Advanced Tax Business Entities,core_rank,3,75.000000
+R_19g1XQ9mK1pTzs6,ACC 6510 Financial Audit,core_rank,4,62.500000
+R_19g1XQ9mK1pTzs6,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_19g1XQ9mK1pTzs6,ACC 6560 Financial Theory & Research I,core_rank,5,50.000000
+R_19g1XQ9mK1pTzs6,ACC 6350 Management Control Systems,core_rank,6,37.500000
+R_19g1XQ9mK1pTzs6,ACC 6600 Business Law for Accountants,core_rank,1,100.000000
+R_19g1XQ9mK1pTzs6,ACC 6250 Financial Reporting and Analysis,elective_rating,2,25.000000
+R_19g1XQ9mK1pTzs6,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,3,50.000000
+R_5dY1egWLnFoL5KO,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_5dY1egWLnFoL5KO,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_5dY1egWLnFoL5KO,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_5dY1egWLnFoL5KO,ACC 6510 Financial Audit,core_rank,8,12.500000
+R_5dY1egWLnFoL5KO,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_5dY1egWLnFoL5KO,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_5dY1egWLnFoL5KO,ACC 6350 Management Control Systems,core_rank,1,100.000000
+R_5dY1egWLnFoL5KO,ACC 6600 Business Law for Accountants,core_rank,5,50.000000
+R_5dY1egWLnFoL5KO,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,2,25.000000
+R_5dY1egWLnFoL5KO,ACC 679R Taxation of Business Entities II,elective_rating,3,50.000000
+R_5FUSkdmmQ3Oxsbr,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_5FUSkdmmQ3Oxsbr,ACC 6300 Data Analytics,core_rank,1,100.000000
+R_5FUSkdmmQ3Oxsbr,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_5FUSkdmmQ3Oxsbr,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_5FUSkdmmQ3Oxsbr,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_5FUSkdmmQ3Oxsbr,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_5FUSkdmmQ3Oxsbr,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_5FUSkdmmQ3Oxsbr,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5FUSkdmmQ3Oxsbr,ACC 6020 Advanced Financial Application,elective_rating,5,100.000000
+R_5FUSkdmmQ3Oxsbr,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,4,75.000000
+R_5FUSkdmmQ3Oxsbr,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_22G8LwaDKekpaAr,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_22G8LwaDKekpaAr,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_22G8LwaDKekpaAr,ACC 6400 Advanced Tax Business Entities,core_rank,4,62.500000
+R_22G8LwaDKekpaAr,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_22G8LwaDKekpaAr,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_22G8LwaDKekpaAr,ACC 6560 Financial Theory & Research I,core_rank,5,50.000000
+R_22G8LwaDKekpaAr,ACC 6350 Management Control Systems,core_rank,1,100.000000
+R_22G8LwaDKekpaAr,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_22G8LwaDKekpaAr,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,4,75.000000
+R_22G8LwaDKekpaAr,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_22G8LwaDKekpaAr,ACC 6250 Financial Reporting and Analysis,elective_rating,3,50.000000
+R_5m6vOPJ8XWwrNJL,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_5m6vOPJ8XWwrNJL,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_5m6vOPJ8XWwrNJL,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_5m6vOPJ8XWwrNJL,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_5m6vOPJ8XWwrNJL,ACC 6540 Professional Ethics,core_rank,4,62.500000
+R_5m6vOPJ8XWwrNJL,ACC 6560 Financial Theory & Research I,core_rank,2,87.500000
+R_5m6vOPJ8XWwrNJL,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_5m6vOPJ8XWwrNJL,ACC 6600 Business Law for Accountants,core_rank,7,25.000000
+R_5m6vOPJ8XWwrNJL,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,5,100.000000
+R_5m6vOPJ8XWwrNJL,ACC 679R Taxation of Business Entities II,elective_rating,3,50.000000
+R_2dMZIRom9kFnxGg,ACC 6060 Professionalism and Leadership,core_rank,5,50.000000
+R_2dMZIRom9kFnxGg,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_2dMZIRom9kFnxGg,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_2dMZIRom9kFnxGg,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_2dMZIRom9kFnxGg,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_2dMZIRom9kFnxGg,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_2dMZIRom9kFnxGg,ACC 6350 Management Control Systems,core_rank,7,25.000000
+R_2dMZIRom9kFnxGg,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_2dMZIRom9kFnxGg,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_2dMZIRom9kFnxGg,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_2wBwVouJnxVjDaE,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_2wBwVouJnxVjDaE,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_2wBwVouJnxVjDaE,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_2wBwVouJnxVjDaE,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_2wBwVouJnxVjDaE,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_2wBwVouJnxVjDaE,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_2wBwVouJnxVjDaE,ACC 6350 Management Control Systems,core_rank,1,100.000000
+R_2wBwVouJnxVjDaE,ACC 6600 Business Law for Accountants,core_rank,3,75.000000
+R_2wBwVouJnxVjDaE,ACC 6250 Financial Reporting and Analysis,elective_rating,3,50.000000
+R_2wBwVouJnxVjDaE,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
+R_2wBwVouJnxVjDaE,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_2lxYNlr60s8bClH,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_2lxYNlr60s8bClH,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_2lxYNlr60s8bClH,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_2lxYNlr60s8bClH,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_2lxYNlr60s8bClH,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_2lxYNlr60s8bClH,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_2lxYNlr60s8bClH,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_2lxYNlr60s8bClH,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_2lxYNlr60s8bClH,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,4,75.000000
+R_23mRmHj0Xqi2bbr,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_23mRmHj0Xqi2bbr,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_23mRmHj0Xqi2bbr,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_23mRmHj0Xqi2bbr,ACC 6510 Financial Audit,core_rank,3,75.000000
+R_23mRmHj0Xqi2bbr,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_23mRmHj0Xqi2bbr,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_23mRmHj0Xqi2bbr,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_23mRmHj0Xqi2bbr,ACC 6600 Business Law for Accountants,core_rank,1,100.000000
+R_23mRmHj0Xqi2bbr,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_23mRmHj0Xqi2bbr,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,4,75.000000
+R_23mRmHj0Xqi2bbr,ACC 679R Taxation of Business Entities II,elective_rating,4,75.000000
+R_1jtkRGO4SW8Q8WR,ACC 6060 Professionalism and Leadership,core_rank,1,100.000000
+R_1jtkRGO4SW8Q8WR,ACC 6300 Data Analytics,core_rank,6,37.500000
+R_1jtkRGO4SW8Q8WR,ACC 6400 Advanced Tax Business Entities,core_rank,3,75.000000
+R_1jtkRGO4SW8Q8WR,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_1jtkRGO4SW8Q8WR,ACC 6540 Professional Ethics,core_rank,4,62.500000
+R_1jtkRGO4SW8Q8WR,ACC 6560 Financial Theory & Research I,core_rank,2,87.500000
+R_1jtkRGO4SW8Q8WR,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_1jtkRGO4SW8Q8WR,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_1jtkRGO4SW8Q8WR,ACC 6250 Financial Reporting and Analysis,elective_rating,5,100.000000
+R_1IKOWITOP5p06cR,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_1IKOWITOP5p06cR,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_1IKOWITOP5p06cR,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_1IKOWITOP5p06cR,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_1IKOWITOP5p06cR,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_1IKOWITOP5p06cR,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_1IKOWITOP5p06cR,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_1IKOWITOP5p06cR,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_1IKOWITOP5p06cR,ACC 6250 Financial Reporting and Analysis,elective_rating,5,100.000000
+R_1IKOWITOP5p06cR,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_50NyVCA5m9PXgdt,ACC 6060 Professionalism and Leadership,core_rank,7,25.000000
+R_50NyVCA5m9PXgdt,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_50NyVCA5m9PXgdt,ACC 6400 Advanced Tax Business Entities,core_rank,3,75.000000
+R_50NyVCA5m9PXgdt,ACC 6510 Financial Audit,core_rank,1,100.000000
+R_50NyVCA5m9PXgdt,ACC 6540 Professional Ethics,core_rank,4,62.500000
+R_50NyVCA5m9PXgdt,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_50NyVCA5m9PXgdt,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_50NyVCA5m9PXgdt,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_50NyVCA5m9PXgdt,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,5,100.000000
+R_50NyVCA5m9PXgdt,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_50NyVCA5m9PXgdt,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,4,75.000000
+R_50NyVCA5m9PXgdt,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_2SfyzJTGRxn66MU,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_2SfyzJTGRxn66MU,ACC 6300 Data Analytics,core_rank,7,25.000000
+R_2SfyzJTGRxn66MU,ACC 6400 Advanced Tax Business Entities,core_rank,3,75.000000
+R_2SfyzJTGRxn66MU,ACC 6510 Financial Audit,core_rank,2,87.500000
+R_2SfyzJTGRxn66MU,ACC 6540 Professional Ethics,core_rank,5,50.000000
+R_2SfyzJTGRxn66MU,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_2SfyzJTGRxn66MU,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_2SfyzJTGRxn66MU,ACC 6600 Business Law for Accountants,core_rank,1,100.000000
+R_2SfyzJTGRxn66MU,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,4,75.000000
+R_2SfyzJTGRxn66MU,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_2SfyzJTGRxn66MU,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_1LYCVtR4fpNWOt5,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_1LYCVtR4fpNWOt5,ACC 6300 Data Analytics,core_rank,7,25.000000
+R_1LYCVtR4fpNWOt5,ACC 6400 Advanced Tax Business Entities,core_rank,6,37.500000
+R_1LYCVtR4fpNWOt5,ACC 6510 Financial Audit,core_rank,3,75.000000
+R_1LYCVtR4fpNWOt5,ACC 6540 Professional Ethics,core_rank,5,50.000000
+R_1LYCVtR4fpNWOt5,ACC 6560 Financial Theory & Research I,core_rank,1,100.000000
+R_1LYCVtR4fpNWOt5,ACC 6350 Management Control Systems,core_rank,2,87.500000
+R_1LYCVtR4fpNWOt5,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_1LYCVtR4fpNWOt5,ACC 6150 Information Systems Audit,elective_rating,3,50.000000
+R_1LYCVtR4fpNWOt5,ACC 6250 Financial Reporting and Analysis,elective_rating,5,100.000000
+R_1LYCVtR4fpNWOt5,ACC 679R Taxation of Business Entities II,elective_rating,4,75.000000
+R_3cBXSQVqoN0jtCT,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_3cBXSQVqoN0jtCT,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_3cBXSQVqoN0jtCT,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_3cBXSQVqoN0jtCT,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_3cBXSQVqoN0jtCT,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_3cBXSQVqoN0jtCT,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_3cBXSQVqoN0jtCT,ACC 6350 Management Control Systems,core_rank,7,25.000000
+R_3cBXSQVqoN0jtCT,ACC 6600 Business Law for Accountants,core_rank,1,100.000000
+R_3cBXSQVqoN0jtCT,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_3cBXSQVqoN0jtCT,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_16KklfVkSoiaDvj,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_16KklfVkSoiaDvj,ACC 6300 Data Analytics,core_rank,1,100.000000
+R_16KklfVkSoiaDvj,ACC 6400 Advanced Tax Business Entities,core_rank,5,50.000000
+R_16KklfVkSoiaDvj,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_16KklfVkSoiaDvj,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_16KklfVkSoiaDvj,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_16KklfVkSoiaDvj,ACC 6350 Management Control Systems,core_rank,2,87.500000
+R_16KklfVkSoiaDvj,ACC 6600 Business Law for Accountants,core_rank,4,62.500000
+R_16KklfVkSoiaDvj,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,5,100.000000
+R_1DqhHiQm0UPD6KZ,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_1DqhHiQm0UPD6KZ,ACC 6300 Data Analytics,core_rank,1,100.000000
+R_1DqhHiQm0UPD6KZ,ACC 6400 Advanced Tax Business Entities,core_rank,5,50.000000
+R_1DqhHiQm0UPD6KZ,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_1DqhHiQm0UPD6KZ,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_1DqhHiQm0UPD6KZ,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_1DqhHiQm0UPD6KZ,ACC 6350 Management Control Systems,core_rank,6,37.500000
+R_1DqhHiQm0UPD6KZ,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_1DqhHiQm0UPD6KZ,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_5JPfTIksoH1owJQ,ACC 6060 Professionalism and Leadership,core_rank,2,87.500000
+R_5JPfTIksoH1owJQ,ACC 6300 Data Analytics,core_rank,6,37.500000
+R_5JPfTIksoH1owJQ,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_5JPfTIksoH1owJQ,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_5JPfTIksoH1owJQ,ACC 6540 Professional Ethics,core_rank,3,75.000000
+R_5JPfTIksoH1owJQ,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_5JPfTIksoH1owJQ,ACC 6350 Management Control Systems,core_rank,7,25.000000
+R_5JPfTIksoH1owJQ,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_269iJxToTTKKeCV,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_269iJxToTTKKeCV,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_269iJxToTTKKeCV,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_269iJxToTTKKeCV,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_269iJxToTTKKeCV,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_269iJxToTTKKeCV,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_269iJxToTTKKeCV,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_269iJxToTTKKeCV,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_269iJxToTTKKeCV,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_269iJxToTTKKeCV,ACC 6250 Financial Reporting and Analysis,elective_rating,3,50.000000
+R_269iJxToTTKKeCV,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,5,100.000000
+R_269iJxToTTKKeCV,ACC 679R Taxation of Business Entities II,elective_rating,4,75.000000
+R_7e4fFgIjzFaIkJK,ACC 6060 Professionalism and Leadership,core_rank,1,100.000000
+R_7e4fFgIjzFaIkJK,ACC 6300 Data Analytics,core_rank,6,37.500000
+R_7e4fFgIjzFaIkJK,ACC 6400 Advanced Tax Business Entities,core_rank,3,75.000000
+R_7e4fFgIjzFaIkJK,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_7e4fFgIjzFaIkJK,ACC 6540 Professional Ethics,core_rank,2,87.500000
+R_7e4fFgIjzFaIkJK,ACC 6560 Financial Theory & Research I,core_rank,8,12.500000
+R_7e4fFgIjzFaIkJK,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_7e4fFgIjzFaIkJK,ACC 6600 Business Law for Accountants,core_rank,4,62.500000
+R_7e4fFgIjzFaIkJK,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_7e4fFgIjzFaIkJK,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
+R_2zoKi6bnZOSR6hI,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_2zoKi6bnZOSR6hI,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_2zoKi6bnZOSR6hI,ACC 6400 Advanced Tax Business Entities,core_rank,5,50.000000
+R_2zoKi6bnZOSR6hI,ACC 6510 Financial Audit,core_rank,4,62.500000
+R_2zoKi6bnZOSR6hI,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_2zoKi6bnZOSR6hI,ACC 6560 Financial Theory & Research I,core_rank,1,100.000000
+R_2zoKi6bnZOSR6hI,ACC 6350 Management Control Systems,core_rank,6,37.500000
+R_2zoKi6bnZOSR6hI,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_2zoKi6bnZOSR6hI,ACC 6020 Advanced Financial Application,elective_rating,5,100.000000
+R_2zoKi6bnZOSR6hI,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,5,100.000000
+R_2zoKi6bnZOSR6hI,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_2zoKi6bnZOSR6hI,ACC 6250 Financial Reporting and Analysis,elective_rating,3,50.000000
+R_3p4ib8ootrqPE02,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_3p4ib8ootrqPE02,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_3p4ib8ootrqPE02,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3p4ib8ootrqPE02,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_3p4ib8ootrqPE02,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_3p4ib8ootrqPE02,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_3p4ib8ootrqPE02,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_3p4ib8ootrqPE02,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_3p4ib8ootrqPE02,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_3p4ib8ootrqPE02,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
+R_5IYInL1OOCzqSf0,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_5IYInL1OOCzqSf0,ACC 6300 Data Analytics,core_rank,1,100.000000
+R_5IYInL1OOCzqSf0,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_5IYInL1OOCzqSf0,ACC 6510 Financial Audit,core_rank,3,75.000000
+R_5IYInL1OOCzqSf0,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_5IYInL1OOCzqSf0,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_5IYInL1OOCzqSf0,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_5IYInL1OOCzqSf0,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5IYInL1OOCzqSf0,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,2,25.000000
+R_5IYInL1OOCzqSf0,ACC 6150 Information Systems Audit,elective_rating,3,50.000000
+R_5IYInL1OOCzqSf0,ACC 679R Taxation of Business Entities II,elective_rating,3,50.000000
+R_3l1v1SOa4PUwadj,ACC 6060 Professionalism and Leadership,core_rank,5,50.000000
+R_3l1v1SOa4PUwadj,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_3l1v1SOa4PUwadj,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3l1v1SOa4PUwadj,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_3l1v1SOa4PUwadj,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_3l1v1SOa4PUwadj,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_3l1v1SOa4PUwadj,ACC 6350 Management Control Systems,core_rank,2,87.500000
+R_3l1v1SOa4PUwadj,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_3l1v1SOa4PUwadj,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_3l1v1SOa4PUwadj,ACC 6250 Financial Reporting and Analysis,elective_rating,5,100.000000
+R_3l1v1SOa4PUwadj,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_24GCRc36OmKFkoH,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_24GCRc36OmKFkoH,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_24GCRc36OmKFkoH,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_24GCRc36OmKFkoH,ACC 6510 Financial Audit,core_rank,4,62.500000
+R_24GCRc36OmKFkoH,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_24GCRc36OmKFkoH,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_24GCRc36OmKFkoH,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_24GCRc36OmKFkoH,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_24GCRc36OmKFkoH,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_24GCRc36OmKFkoH,ACC 6250 Financial Reporting and Analysis,elective_rating,5,100.000000
+R_24GCRc36OmKFkoH,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_8eFWpHzvI2I12j9,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,5,100.000000
+R_8eFWpHzvI2I12j9,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_8eFWpHzvI2I12j9,ACC 6250 Financial Reporting and Analysis,elective_rating,5,100.000000
+R_8eFWpHzvI2I12j9,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,4,75.000000
+R_1074pRfnNoKLPp4,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_1074pRfnNoKLPp4,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_1074pRfnNoKLPp4,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_1074pRfnNoKLPp4,ACC 6510 Financial Audit,core_rank,4,62.500000
+R_1074pRfnNoKLPp4,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_1074pRfnNoKLPp4,ACC 6560 Financial Theory & Research I,core_rank,1,100.000000
+R_1074pRfnNoKLPp4,ACC 6350 Management Control Systems,core_rank,7,25.000000
+R_1074pRfnNoKLPp4,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_1074pRfnNoKLPp4,ACC 6020 Advanced Financial Application,elective_rating,5,100.000000
+R_1074pRfnNoKLPp4,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_1gpyDxhYIBrMvDk,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_1gpyDxhYIBrMvDk,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_1gpyDxhYIBrMvDk,ACC 6400 Advanced Tax Business Entities,core_rank,6,37.500000
+R_1gpyDxhYIBrMvDk,ACC 6510 Financial Audit,core_rank,1,100.000000
+R_1gpyDxhYIBrMvDk,ACC 6540 Professional Ethics,core_rank,3,75.000000
+R_1gpyDxhYIBrMvDk,ACC 6560 Financial Theory & Research I,core_rank,2,87.500000
+R_1gpyDxhYIBrMvDk,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_1gpyDxhYIBrMvDk,ACC 6600 Business Law for Accountants,core_rank,7,25.000000
+R_1gpyDxhYIBrMvDk,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
+R_1DnbK1Wb70knxO1,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_1DnbK1Wb70knxO1,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_1DnbK1Wb70knxO1,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_1DnbK1Wb70knxO1,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_1DnbK1Wb70knxO1,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_1DnbK1Wb70knxO1,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_1DnbK1Wb70knxO1,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_1DnbK1Wb70knxO1,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_1DnbK1Wb70knxO1,ACC 6410 Tax Research & Procedure,elective_rating,4,75.000000
+R_1DnbK1Wb70knxO1,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
+R_1DnbK1Wb70knxO1,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_5rNKMNZnIKgLuoY,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_5rNKMNZnIKgLuoY,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_5rNKMNZnIKgLuoY,ACC 6400 Advanced Tax Business Entities,core_rank,7,25.000000
+R_5rNKMNZnIKgLuoY,ACC 6510 Financial Audit,core_rank,2,87.500000
+R_5rNKMNZnIKgLuoY,ACC 6540 Professional Ethics,core_rank,3,75.000000
+R_5rNKMNZnIKgLuoY,ACC 6560 Financial Theory & Research I,core_rank,1,100.000000
+R_5rNKMNZnIKgLuoY,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_5rNKMNZnIKgLuoY,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5rNKMNZnIKgLuoY,ACC 6020 Advanced Financial Application,elective_rating,5,100.000000
+R_5rNKMNZnIKgLuoY,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,2,25.000000
+R_5rNKMNZnIKgLuoY,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_2D6bQWfAEvmCn3r,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_2D6bQWfAEvmCn3r,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_2D6bQWfAEvmCn3r,ACC 6400 Advanced Tax Business Entities,core_rank,3,75.000000
+R_2D6bQWfAEvmCn3r,ACC 6510 Financial Audit,core_rank,4,62.500000
+R_2D6bQWfAEvmCn3r,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_2D6bQWfAEvmCn3r,ACC 6560 Financial Theory & Research I,core_rank,2,87.500000
+R_2D6bQWfAEvmCn3r,ACC 6350 Management Control Systems,core_rank,7,25.000000
+R_2D6bQWfAEvmCn3r,ACC 6600 Business Law for Accountants,core_rank,1,100.000000
+R_2D6bQWfAEvmCn3r,ACC 6150 Information Systems Audit,elective_rating,2,25.000000
+R_2D6bQWfAEvmCn3r,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_2D6bQWfAEvmCn3r,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,3,50.000000
+R_2D6bQWfAEvmCn3r,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,5,100.000000
+R_3YfVvJcf7ECx1hq,ACC 6060 Professionalism and Leadership,core_rank,2,87.500000
+R_3YfVvJcf7ECx1hq,ACC 6300 Data Analytics,core_rank,5,50.000000
+R_3YfVvJcf7ECx1hq,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3YfVvJcf7ECx1hq,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_3YfVvJcf7ECx1hq,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_3YfVvJcf7ECx1hq,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_3YfVvJcf7ECx1hq,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_3YfVvJcf7ECx1hq,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_3YfVvJcf7ECx1hq,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,1,0.000000
+R_3YfVvJcf7ECx1hq,ACC 6150 Information Systems Audit,elective_rating,3,50.000000
+R_3YfVvJcf7ECx1hq,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_5TNpcj1BO2FcMdv,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_5TNpcj1BO2FcMdv,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_5TNpcj1BO2FcMdv,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_5TNpcj1BO2FcMdv,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_5TNpcj1BO2FcMdv,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_5TNpcj1BO2FcMdv,ACC 6560 Financial Theory & Research I,core_rank,4,62.500000
+R_5TNpcj1BO2FcMdv,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_5TNpcj1BO2FcMdv,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5TNpcj1BO2FcMdv,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,4,75.000000
+R_5TNpcj1BO2FcMdv,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_5TNpcj1BO2FcMdv,ACC 6250 Financial Reporting and Analysis,elective_rating,3,50.000000
+R_5TNpcj1BO2FcMdv,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,3,50.000000
+R_10czstobtIJLxG8,ACC 6060 Professionalism and Leadership,core_rank,5,50.000000
+R_10czstobtIJLxG8,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_10czstobtIJLxG8,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_10czstobtIJLxG8,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_10czstobtIJLxG8,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_10czstobtIJLxG8,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_10czstobtIJLxG8,ACC 6350 Management Control Systems,core_rank,2,87.500000
+R_10czstobtIJLxG8,ACC 6600 Business Law for Accountants,core_rank,4,62.500000
+R_10czstobtIJLxG8,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,2,25.000000
+R_10czstobtIJLxG8,ACC 6250 Financial Reporting and Analysis,elective_rating,3,50.000000
+R_10czstobtIJLxG8,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,5,100.000000
+R_7jTLBrt5S9ZjMFT,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_7jTLBrt5S9ZjMFT,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_7jTLBrt5S9ZjMFT,ACC 6400 Advanced Tax Business Entities,core_rank,6,37.500000
+R_7jTLBrt5S9ZjMFT,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_7jTLBrt5S9ZjMFT,ACC 6540 Professional Ethics,core_rank,4,62.500000
+R_7jTLBrt5S9ZjMFT,ACC 6560 Financial Theory & Research I,core_rank,5,50.000000
+R_7jTLBrt5S9ZjMFT,ACC 6350 Management Control Systems,core_rank,1,100.000000
+R_7jTLBrt5S9ZjMFT,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_7jTLBrt5S9ZjMFT,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_3iD4RxIfWTtgEOk,ACC 6060 Professionalism and Leadership,core_rank,5,50.000000
+R_3iD4RxIfWTtgEOk,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_3iD4RxIfWTtgEOk,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3iD4RxIfWTtgEOk,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_3iD4RxIfWTtgEOk,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_3iD4RxIfWTtgEOk,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_3iD4RxIfWTtgEOk,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_3iD4RxIfWTtgEOk,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_3iD4RxIfWTtgEOk,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_3iD4RxIfWTtgEOk,ACC 679R Taxation of Business Entities II,elective_rating,4,75.000000
+R_5kNRsCYkWrFQY25,ACC 6060 Professionalism and Leadership,core_rank,7,25.000000
+R_5kNRsCYkWrFQY25,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_5kNRsCYkWrFQY25,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_5kNRsCYkWrFQY25,ACC 6510 Financial Audit,core_rank,3,75.000000
+R_5kNRsCYkWrFQY25,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_5kNRsCYkWrFQY25,ACC 6560 Financial Theory & Research I,core_rank,5,50.000000
+R_5kNRsCYkWrFQY25,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_5kNRsCYkWrFQY25,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_5kNRsCYkWrFQY25,ACC 6410 Tax Research & Procedure,elective_rating,3,50.000000
+R_5kNRsCYkWrFQY25,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_60MOsWvkBN9r7a1,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_60MOsWvkBN9r7a1,ACC 6300 Data Analytics,core_rank,1,100.000000
+R_60MOsWvkBN9r7a1,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_60MOsWvkBN9r7a1,ACC 6510 Financial Audit,core_rank,3,75.000000
+R_60MOsWvkBN9r7a1,ACC 6540 Professional Ethics,core_rank,6,37.500000
+R_60MOsWvkBN9r7a1,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_60MOsWvkBN9r7a1,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_60MOsWvkBN9r7a1,ACC 6600 Business Law for Accountants,core_rank,5,50.000000
+R_60MOsWvkBN9r7a1,ACC 6150 Information Systems Audit,elective_rating,4,75.000000
+R_60MOsWvkBN9r7a1,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_60MOsWvkBN9r7a1,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,4,75.000000
+R_3rZJkb1AEkcFlac,ACC 6060 Professionalism and Leadership,core_rank,8,12.500000
+R_3rZJkb1AEkcFlac,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_3rZJkb1AEkcFlac,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3rZJkb1AEkcFlac,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_3rZJkb1AEkcFlac,ACC 6540 Professional Ethics,core_rank,5,50.000000
+R_3rZJkb1AEkcFlac,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_3rZJkb1AEkcFlac,ACC 6350 Management Control Systems,core_rank,3,75.000000
+R_3rZJkb1AEkcFlac,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_3rZJkb1AEkcFlac,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_3JIS2KTOtDml8nz,ACC 6060 Professionalism and Leadership,core_rank,6,37.500000
+R_3JIS2KTOtDml8nz,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_3JIS2KTOtDml8nz,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3JIS2KTOtDml8nz,ACC 6510 Financial Audit,core_rank,2,87.500000
+R_3JIS2KTOtDml8nz,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_3JIS2KTOtDml8nz,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_3JIS2KTOtDml8nz,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_3JIS2KTOtDml8nz,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_3JIS2KTOtDml8nz,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,4,75.000000
+R_3JIS2KTOtDml8nz,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_3JIS2KTOtDml8nz,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_2so9IpHCu6IoR4e,ACC 6060 Professionalism and Leadership,core_rank,3,75.000000
+R_2so9IpHCu6IoR4e,ACC 6300 Data Analytics,core_rank,6,37.500000
+R_2so9IpHCu6IoR4e,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_2so9IpHCu6IoR4e,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_2so9IpHCu6IoR4e,ACC 6540 Professional Ethics,core_rank,4,62.500000
+R_2so9IpHCu6IoR4e,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_2so9IpHCu6IoR4e,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_2so9IpHCu6IoR4e,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_5lmRSRN70t6y0q5,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_5lmRSRN70t6y0q5,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_5lmRSRN70t6y0q5,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_5lmRSRN70t6y0q5,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_5lmRSRN70t6y0q5,ACC 6540 Professional Ethics,core_rank,2,87.500000
+R_5lmRSRN70t6y0q5,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_5lmRSRN70t6y0q5,ACC 6350 Management Control Systems,core_rank,6,37.500000
+R_5lmRSRN70t6y0q5,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5lmRSRN70t6y0q5,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,5,100.000000
+R_5lmRSRN70t6y0q5,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_5lmRSRN70t6y0q5,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_5rHVHsP8cXzTYTU,ACC 6060 Professionalism and Leadership,core_rank,2,87.500000
+R_5rHVHsP8cXzTYTU,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_5rHVHsP8cXzTYTU,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_5rHVHsP8cXzTYTU,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_5rHVHsP8cXzTYTU,ACC 6540 Professional Ethics,core_rank,4,62.500000
+R_5rHVHsP8cXzTYTU,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_5rHVHsP8cXzTYTU,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_5rHVHsP8cXzTYTU,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5rHVHsP8cXzTYTU,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_5rHVHsP8cXzTYTU,ACC 6410 Tax Research & Procedure,elective_rating,5,100.000000
+R_2gTW1n7E1IZAkTc,ACC 6060 Professionalism and Leadership,core_rank,7,25.000000
+R_2gTW1n7E1IZAkTc,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_2gTW1n7E1IZAkTc,ACC 6400 Advanced Tax Business Entities,core_rank,3,75.000000
+R_2gTW1n7E1IZAkTc,ACC 6510 Financial Audit,core_rank,2,87.500000
+R_2gTW1n7E1IZAkTc,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_2gTW1n7E1IZAkTc,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_2gTW1n7E1IZAkTc,ACC 6350 Management Control Systems,core_rank,5,50.000000
+R_2gTW1n7E1IZAkTc,ACC 6600 Business Law for Accountants,core_rank,1,100.000000
+R_2gTW1n7E1IZAkTc,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,2,25.000000
+R_2gTW1n7E1IZAkTc,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
+R_5NslosrNhBJOU2V,ACC 6060 Professionalism and Leadership,core_rank,1,100.000000
+R_5NslosrNhBJOU2V,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_5NslosrNhBJOU2V,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_5NslosrNhBJOU2V,ACC 6510 Financial Audit,core_rank,5,50.000000
+R_5NslosrNhBJOU2V,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_5NslosrNhBJOU2V,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_5NslosrNhBJOU2V,ACC 6350 Management Control Systems,core_rank,4,62.500000
+R_5NslosrNhBJOU2V,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_5NslosrNhBJOU2V,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,2,25.000000
+R_5NslosrNhBJOU2V,ACC 6150 Information Systems Audit,elective_rating,3,50.000000
+R_5NslosrNhBJOU2V,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_3fkuAPqdsGNM93m,ACC 6060 Professionalism and Leadership,core_rank,5,50.000000
+R_3fkuAPqdsGNM93m,ACC 6300 Data Analytics,core_rank,4,62.500000
+R_3fkuAPqdsGNM93m,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_3fkuAPqdsGNM93m,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_3fkuAPqdsGNM93m,ACC 6540 Professional Ethics,core_rank,7,25.000000
+R_3fkuAPqdsGNM93m,ACC 6560 Financial Theory & Research I,core_rank,3,75.000000
+R_3fkuAPqdsGNM93m,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_3fkuAPqdsGNM93m,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_3fkuAPqdsGNM93m,ACC 679R Taxation of Business Entities II,elective_rating,4,75.000000
+R_4Edl8oYthuveE0M,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_4Edl8oYthuveE0M,ACC 6300 Data Analytics,core_rank,7,25.000000
+R_4Edl8oYthuveE0M,ACC 6400 Advanced Tax Business Entities,core_rank,8,12.500000
+R_4Edl8oYthuveE0M,ACC 6510 Financial Audit,core_rank,2,87.500000
+R_4Edl8oYthuveE0M,ACC 6540 Professional Ethics,core_rank,5,50.000000
+R_4Edl8oYthuveE0M,ACC 6560 Financial Theory & Research I,core_rank,1,100.000000
+R_4Edl8oYthuveE0M,ACC 6350 Management Control Systems,core_rank,6,37.500000
+R_4Edl8oYthuveE0M,ACC 6600 Business Law for Accountants,core_rank,3,75.000000
+R_4Edl8oYthuveE0M,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating,5,100.000000
+R_4Edl8oYthuveE0M,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating,4,75.000000
+R_4Edl8oYthuveE0M,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,5,100.000000
+R_2xCFYAaI9AYaHrr,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_2xCFYAaI9AYaHrr,ACC 6300 Data Analytics,core_rank,1,100.000000
+R_2xCFYAaI9AYaHrr,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_2xCFYAaI9AYaHrr,ACC 6510 Financial Audit,core_rank,6,37.500000
+R_2xCFYAaI9AYaHrr,ACC 6540 Professional Ethics,core_rank,8,12.500000
+R_2xCFYAaI9AYaHrr,ACC 6560 Financial Theory & Research I,core_rank,5,50.000000
+R_2xCFYAaI9AYaHrr,ACC 6350 Management Control Systems,core_rank,7,25.000000
+R_2xCFYAaI9AYaHrr,ACC 6600 Business Law for Accountants,core_rank,3,75.000000
+R_2xCFYAaI9AYaHrr,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_2xCFYAaI9AYaHrr,ACC 6250 Financial Reporting and Analysis,elective_rating,4,75.000000
+R_2xCFYAaI9AYaHrr,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
+R_7PiomP0y0H4RG25,ACC 6060 Professionalism and Leadership,core_rank,4,62.500000
+R_7PiomP0y0H4RG25,ACC 6300 Data Analytics,core_rank,3,75.000000
+R_7PiomP0y0H4RG25,ACC 6400 Advanced Tax Business Entities,core_rank,1,100.000000
+R_7PiomP0y0H4RG25,ACC 6510 Financial Audit,core_rank,7,25.000000
+R_7PiomP0y0H4RG25,ACC 6540 Professional Ethics,core_rank,5,50.000000
+R_7PiomP0y0H4RG25,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_7PiomP0y0H4RG25,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_7PiomP0y0H4RG25,ACC 6600 Business Law for Accountants,core_rank,2,87.500000
+R_3MPyTGgMe5C32By,ACC 6060 Professionalism and Leadership,core_rank,5,50.000000
+R_3MPyTGgMe5C32By,ACC 6300 Data Analytics,core_rank,6,37.500000
+R_3MPyTGgMe5C32By,ACC 6400 Advanced Tax Business Entities,core_rank,2,87.500000
+R_3MPyTGgMe5C32By,ACC 6510 Financial Audit,core_rank,4,62.500000
+R_3MPyTGgMe5C32By,ACC 6540 Professional Ethics,core_rank,1,100.000000
+R_3MPyTGgMe5C32By,ACC 6560 Financial Theory & Research I,core_rank,7,25.000000
+R_3MPyTGgMe5C32By,ACC 6350 Management Control Systems,core_rank,8,12.500000
+R_3MPyTGgMe5C32By,ACC 6600 Business Law for Accountants,core_rank,3,75.000000
+R_3MPyTGgMe5C32By,ACC 6410 Tax Research & Procedure,elective_rating,5,100.000000
+R_3MPyTGgMe5C32By,ACC 679R Taxation of Business Entities II,elective_rating,5,100.000000
+R_3kTa68VAqpO95S1,ACC 6060 Professionalism and Leadership,core_rank,1,100.000000
+R_3kTa68VAqpO95S1,ACC 6300 Data Analytics,core_rank,2,87.500000
+R_3kTa68VAqpO95S1,ACC 6400 Advanced Tax Business Entities,core_rank,4,62.500000
+R_3kTa68VAqpO95S1,ACC 6510 Financial Audit,core_rank,3,75.000000
+R_3kTa68VAqpO95S1,ACC 6540 Professional Ethics,core_rank,5,50.000000
+R_3kTa68VAqpO95S1,ACC 6560 Financial Theory & Research I,core_rank,6,37.500000
+R_3kTa68VAqpO95S1,ACC 6350 Management Control Systems,core_rank,7,25.000000
+R_3kTa68VAqpO95S1,ACC 6600 Business Law for Accountants,core_rank,8,12.500000
+R_3kTa68VAqpO95S1,ACC 6150 Information Systems Audit,elective_rating,5,100.000000
+R_3kTa68VAqpO95S1,ACC 6250 Financial Reporting and Analysis,elective_rating,2,25.000000
+R_3kTa68VAqpO95S1,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating,4,75.000000
