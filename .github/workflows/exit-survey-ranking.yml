@@ -1,0 +1,37 @@
+name: Exit Survey Ranking Analysis
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'Grad Program Exit Survey Data 2024.xlsx'
+      - 'scripts/analyze_exit_survey.py'
+      - '.github/workflows/exit-survey-ranking.yml'
+
+jobs:
+  rank-courses:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run deterministic analysis
+        run: |
+          python scripts/analyze_exit_survey.py \
+            --input "Grad Program Exit Survey Data 2024.xlsx" \
+            --output-dir outputs
+
+      - name: Upload analysis outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: exit-survey-analysis
+          path: |
+            outputs/course_ranking.csv
+            outputs/cleaned_responses_long.csv
+            outputs/course_ranking.svg
+            outputs/summary.md
