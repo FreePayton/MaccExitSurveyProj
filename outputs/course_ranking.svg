@@ -23,7 +23,7 @@
 <rect x="170" y="188" width="580" height="20" fill="#2563eb" rx="3"/>
 <text x="890" y="203" class="score">81.8 (n=11)</text>
 <text x="24" y="249" class="label">#5</text>
-<text x="56" y="249" class="label">ACC 6410 Tax Research & Procedure</text>
+<text x="56" y="249" class="label">ACC 6410 Tax Research &amp; Procedure</text>
 <rect x="170" y="230" width="710" height="20" fill="#e5e7eb" rx="3"/>
 <rect x="170" y="230" width="576" height="20" fill="#2563eb" rx="3"/>
 <text x="890" y="245" class="score">81.2 (n=4)</text>
@@ -48,12 +48,12 @@
 <rect x="170" y="398" width="477" height="20" fill="#2563eb" rx="3"/>
 <text x="890" y="413" class="score">67.3 (n=13)</text>
 <text x="24" y="459" class="label">#10</text>
-<text x="56" y="459" class="label">ACC 6140 Fraud Examination & Forensic Accounting</text>
+<text x="56" y="459" class="label">ACC 6140 Fraud Examination &amp; Forensic Accounting</text>
 <rect x="170" y="440" width="710" height="20" fill="#e5e7eb" rx="3"/>
 <rect x="170" y="440" width="476" height="20" fill="#2563eb" rx="3"/>
 <text x="890" y="455" class="score">67.1 (n=19)</text>
 <text x="24" y="501" class="label">#11</text>
-<text x="56" y="501" class="label">ACC 6560 Financial Theory & Research I</text>
+<text x="56" y="501" class="label">ACC 6560 Financial Theory &amp; Research I</text>
 <rect x="170" y="482" width="710" height="20" fill="#e5e7eb" rx="3"/>
 <rect x="170" y="482" width="401" height="20" fill="#2563eb" rx="3"/>
 <text x="890" y="497" class="score">56.6 (n=55)</text>

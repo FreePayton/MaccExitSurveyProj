@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html
 import re
 import statistics
 import zipfile
@@ -113,7 +114,7 @@ def create_svg(path: Path, ranking: List[Dict[str, str]]) -> None:
         score = float(row["overall_score"])
         bar_w = max(0, min(bar_max, int(bar_max * (score / 100.0))))
         rank = row["rank"]
-        label = row["course"]
+        label = html.escape(row["course"], quote=False)
         lines.append(f'<text x="24" y="{y + 19}" class="label">#{rank}</text>')
         lines.append(f'<text x="56" y="{y + 19}" class="label">{label}</text>')
         lines.append(f'<rect x="{margin}" y="{y}" width="{bar_max}" height="20" fill="#e5e7eb" rx="3"/>')
