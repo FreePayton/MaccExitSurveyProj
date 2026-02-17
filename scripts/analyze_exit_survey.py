@@ -97,8 +97,17 @@ def clean_numeric(value: str) -> int | None:
     return None
 
 
-def create_svg(path: Path, ranking: List[Dict[str, str]]) -> None:
-    width, row_h, margin = 1100, 42, 170
+def create_svg(
+    path: Path,
+    ranking: List[Dict[str, str]],
+    *,
+    title: str = "MAcc Exit Survey 2024: Course Ranking (Higher = Better)",
+    bar_color: str = "#2563eb",
+    width: int = 1100,
+    row_h: int = 42,
+    margin: int = 170,
+    bar_h: int = 20,
+) -> None:
     bar_max = width - margin - 220
     height = 90 + row_h * len(ranking)
 
@@ -106,7 +115,7 @@ def create_svg(path: Path, ranking: List[Dict[str, str]]) -> None:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '<style>text { font-family: Arial, sans-serif; fill: #1f2937; } .title { font-size: 20px; font-weight: 700; } .label { font-size: 13px; } .score { font-size: 12px; }</style>',
         '<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>',
-        '<text x="24" y="34" class="title">MAcc Exit Survey 2024: Course Ranking (Higher = Better)</text>',
+        f'<text x="24" y="34" class="title">{html.escape(title, quote=False)}</text>',
     ]
 
     for i, row in enumerate(ranking):
@@ -117,9 +126,9 @@ def create_svg(path: Path, ranking: List[Dict[str, str]]) -> None:
         label = html.escape(row["course"], quote=False)
         lines.append(f'<text x="24" y="{y + 19}" class="label">#{rank}</text>')
         lines.append(f'<text x="56" y="{y + 19}" class="label">{label}</text>')
-        lines.append(f'<rect x="{margin}" y="{y}" width="{bar_max}" height="20" fill="#e5e7eb" rx="3"/>')
-        lines.append(f'<rect x="{margin}" y="{y}" width="{bar_w}" height="20" fill="#2563eb" rx="3"/>')
-        lines.append(f'<text x="{margin + bar_max + 10}" y="{y + 15}" class="score">{score:.1f} (n={row["num_responses"]})</text>')
+        lines.append(f'<rect x="{margin}" y="{y}" width="{bar_max}" height="{bar_h}" fill="#e5e7eb" rx="3"/>')
+        lines.append(f'<rect x="{margin}" y="{y}" width="{bar_w}" height="{bar_h}" fill="{bar_color}" rx="3"/>')
+        lines.append(f'<text x="{margin + bar_max + 10}" y="{y + bar_h - 5}" class="score">{score:.1f} (n={row["num_responses"]})</text>')
 
     lines.append("</svg>")
     path.write_text("\n".join(lines), encoding="utf-8")
@@ -257,6 +266,26 @@ def main() -> None:
         }
         for row in ranking_rows
     ])
+
+    figure_path_uvu = output_dir / "course_ranking_uvu_theme.svg"
+    create_svg(
+        figure_path_uvu,
+        [
+            {
+                "rank": str(row["rank"]),
+                "course": row["course"],
+                "overall_score": f"{row['overall_score']:.6f}",
+                "num_responses": str(row["num_responses"]),
+            }
+            for row in ranking_rows
+        ],
+        title="MAcc Exit Survey 2024: Course Ranking UVU Theme",
+        bar_color="#228B22",
+        width=1400,
+        row_h=36,
+        margin=380,
+        bar_h=16,
+    )
 
     summary = output_dir / "summary.md"
     top_five = ranking_rows[:5]

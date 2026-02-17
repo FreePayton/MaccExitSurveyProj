@@ -8,7 +8,7 @@ This repository contains a deterministic workflow to analyze **`Grad Program Exi
 2. Cleans responses to include only completed submissions (`Finished = 1`).
 3. Reshapes ranking/rating columns into a long format.
 4. Computes a normalized 0-100 score for each course.
-5. Produces a ranked output and one figure.
+5. Produces a ranked output and two figures (default + UVU-themed variant).
 6. Uploads results as GitHub Actions artifacts for grading.
 
 ## Run locally
@@ -23,7 +23,8 @@ python scripts/analyze_exit_survey.py \
 
 - `outputs/course_ranking.csv` — final rank order of courses/programs.
 - `outputs/cleaned_responses_long.csv` — cleaned and reshaped analytic dataset.
-- `outputs/course_ranking.svg` — ranking figure.
+- `outputs/course_ranking.svg` — original ranking figure.
+- `outputs/course_ranking_uvu_theme.svg` — UVU-themed ranking figure with forest-green bars and wider label space.
 - `outputs/summary.md` — short explanation + top 5 courses.
 
 ## GitHub Actions

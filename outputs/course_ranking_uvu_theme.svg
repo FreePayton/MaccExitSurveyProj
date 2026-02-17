@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="666" viewBox="0 0 1400 666">
+<style>text { font-family: Arial, sans-serif; fill: #1f2937; } .title { font-size: 20px; font-weight: 700; } .label { font-size: 13px; } .score { font-size: 12px; }</style>
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" class="title">MAcc Exit Survey 2024: Course Ranking UVU Theme</text>
+<text x="24" y="81" class="label">#1</text>
+<text x="56" y="81" class="label">ACC 6020 Advanced Financial Application</text>
+<rect x="380" y="62" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="62" width="800" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="73" class="score">100.0 (n=5)</text>
+<text x="24" y="117" class="label">#2</text>
+<text x="56" y="117" class="label">ACC 679R Taxation of Business Entities II</text>
+<rect x="380" y="98" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="98" width="715" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="109" class="score">89.4 (n=26)</text>
+<text x="24" y="153" class="label">#3</text>
+<text x="56" y="153" class="label">ACC 6400 Advanced Tax Business Entities</text>
+<rect x="380" y="134" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="134" width="660" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="145" class="score">82.5 (n=55)</text>
+<text x="24" y="189" class="label">#4</text>
+<text x="56" y="189" class="label">ACC 6600 Business Law for Accountants (if taken as an elective)</text>
+<rect x="380" y="170" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="170" width="654" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="181" class="score">81.8 (n=11)</text>
+<text x="24" y="225" class="label">#5</text>
+<text x="56" y="225" class="label">ACC 6410 Tax Research &amp; Procedure</text>
+<rect x="380" y="206" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="206" width="650" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="217" class="score">81.2 (n=4)</text>
+<text x="24" y="261" class="label">#6</text>
+<text x="56" y="261" class="label">ACC 6150 Information Systems Audit</text>
+<rect x="380" y="242" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="242" width="628" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="253" class="score">78.6 (n=28)</text>
+<text x="24" y="297" class="label">#7</text>
+<text x="56" y="297" class="label">ACC 6250 Financial Reporting and Analysis</text>
+<rect x="380" y="278" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="278" width="566" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="289" class="score">70.8 (n=24)</text>
+<text x="24" y="333" class="label">#8</text>
+<text x="56" y="333" class="label">ACC 6300 Data Analytics</text>
+<rect x="380" y="314" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="314" width="545" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="325" class="score">68.2 (n=55)</text>
+<text x="24" y="369" class="label">#9</text>
+<text x="56" y="369" class="label">ACC 6350 Mgmt Control Sys (if taken as an elective)</text>
+<rect x="380" y="350" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="350" width="538" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="361" class="score">67.3 (n=13)</text>
+<text x="24" y="405" class="label">#10</text>
+<text x="56" y="405" class="label">ACC 6140 Fraud Examination &amp; Forensic Accounting</text>
+<rect x="380" y="386" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="386" width="536" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="397" class="score">67.1 (n=19)</text>
+<text x="24" y="441" class="label">#11</text>
+<text x="56" y="441" class="label">ACC 6560 Financial Theory &amp; Research I</text>
+<rect x="380" y="422" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="422" width="452" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="433" class="score">56.6 (n=55)</text>
+<text x="24" y="477" class="label">#12</text>
+<text x="56" y="477" class="label">ACC 6060 Professionalism and Leadership</text>
+<rect x="380" y="458" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="458" width="430" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="469" class="score">53.9 (n=55)</text>
+<text x="24" y="513" class="label">#13</text>
+<text x="56" y="513" class="label">ACC 6510 Financial Audit</text>
+<rect x="380" y="494" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="494" width="418" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="505" class="score">52.3 (n=55)</text>
+<text x="24" y="549" class="label">#14</text>
+<text x="56" y="549" class="label">ACC 6600 Business Law for Accountants</text>
+<rect x="380" y="530" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="530" width="390" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="541" class="score">48.9 (n=55)</text>
+<text x="24" y="585" class="label">#15</text>
+<text x="56" y="585" class="label">ACC 6350 Management Control Systems</text>
+<rect x="380" y="566" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="566" width="387" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="577" class="score">48.4 (n=55)</text>
+<text x="24" y="621" class="label">#16</text>
+<text x="56" y="621" class="label">ACC 6540 Professional Ethics</text>
+<rect x="380" y="602" width="800" height="16" fill="#e5e7eb" rx="3"/>
+<rect x="380" y="602" width="314" height="16" fill="#228B22" rx="3"/>
+<text x="1190" y="613" class="score">39.3 (n=55)</text>
+</svg>
